@@ -1,0 +1,578 @@
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "9", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "72", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "705", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21226", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "172", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "121", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "215", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "咚咚呛", "title": "协程原理从入门到精通 解决高性能开发难题", "grade": "中级", "people": "9", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "72", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "705", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21226", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "172", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "121", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "215", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "会写代码的好厨师", "title": "PyTorch入门到进阶 实战计算机视觉与自然语言处理项目", "grade": "中级", "people": "291", "score": "10.00", "describe": "理论基础+技术讲解+实战开发，快速掌握PyTorch框架"}
+{"teacher": "牛儿吃草", "title": "(打造简历金牌项目)Vue+Go 开发企业级微服务网关项目", "grade": "中级", "people": "797", "score": "10.00", "describe": "简历中摒弃烂大街的培训机构项目，带你开发企业级微服务网关"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "9", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "72", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "705", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21226", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "172", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "121", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "215", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "9", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "72", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "705", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21226", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "172", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "121", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "215", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "9", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "72", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "705", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21226", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "172", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "121", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "215", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "咚咚呛", "title": "协程原理从入门到精通 解决高性能开发难题", "grade": "中级", "people": "9", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "73", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "706", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21226", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "172", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "121", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "215", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "会写代码的好厨师", "title": "PyTorch入门到进阶 实战计算机视觉与自然语言处理项目", "grade": "中级", "people": "291", "score": "10.00", "describe": "理论基础+技术讲解+实战开发，快速掌握PyTorch框架"}
+{"teacher": "牛儿吃草", "title": "(打造简历金牌项目)Vue+Go 开发企业级微服务网关项目", "grade": "中级", "people": "797", "score": "10.00", "describe": "简历中摒弃烂大街的培训机构项目，带你开发企业级微服务网关"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "10", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "74", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "706", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21227", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "173", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "122", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "216", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "10", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "74", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "706", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21227", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "173", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "122", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "216", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "10", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "74", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "85", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "706", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2085", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21227", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "135", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "173", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "122", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "216", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "805", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "咚咚呛", "title": "协程原理从入门到精通 解决高性能开发难题", "grade": "中级", "people": "10", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "75", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "86", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "147", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "706", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "423", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1696", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "940", "score": "9.97", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "19", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8989", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2087", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12169", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21229", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "287", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4410", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4239", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1118", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "845", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "136", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "174", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "123", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "216", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "406", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "269", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "358", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "806", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "309", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "再学JavaScript ES(6-11)全版本语法大全", "grade": "初级", "people": "481", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "会写代码的好厨师", "title": "PyTorch入门到进阶 实战计算机视觉与自然语言处理项目", "grade": "中级", "people": "291", "score": "10.00", "describe": "理论基础+技术讲解+实战开发，快速掌握PyTorch框架"}
+{"teacher": "牛儿吃草", "title": "(打造简历金牌项目)Vue+Go 开发企业级微服务网关项目", "grade": "中级", "people": "797", "score": "10.00", "describe": "简历中摒弃烂大街的培训机构项目，带你开发企业级微服务网关"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "14", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "84", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "88", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "148", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "707", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "425", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1697", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "944", "score": "9.98", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2090", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "138", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8991", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12173", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21235", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "河畔一角", "title": "Vue全家桶实战 从零独立开发企业级电商系统", "grade": "中级", "people": "1517", "score": "10.00", "describe": "Vue全家桶构建企业级电商系统，真实服务端数据对接，拥有中大型电商项目开发经验"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "289", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4413", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4242", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1120", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "846", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "21", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "176", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "123", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "217", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "408", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "270", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "360", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "808", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "310", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "14", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "Dell", "title": "Vue3 系统入门与项目实战    收获完整知识技能", "grade": "中级", "people": "84", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "InCowboy", "title": "高级Redis应用进阶课 一站式Redis解决方案", "grade": "高级", "people": "88", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发", "grade": "中级", "people": "148", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "707", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "Jokcy", "title": "Vue3.0+TypeScript打造企业级组件库", "grade": "高级", "people": "425", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "quickzhao", "title": "重学C++ 重构你的C++知识体系", "grade": "中级", "people": "1697", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目", "grade": "中级", "people": "944", "score": "9.98", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "双越", "title": "快速搞定前端技术一面 匹配大厂面试要求", "grade": "初级", "people": "2090", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "138", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8991", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12173", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "7七月", "title": "微信小程序入门与实战-全新版", "grade": "初级", "people": "21235", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "河畔一角", "title": "Vue全家桶实战 从零独立开发企业级电商系统", "grade": "中级", "people": "1517", "score": "10.00", "describe": "Vue全家桶构建企业级电商系统，真实服务端数据对接，拥有中大型电商项目开发经验"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "289", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4413", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App", "grade": "中级", "people": "3299", "score": "9.98", "describe": "从入门到进阶，系统掌握Flutter开发核心技术"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4242", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1120", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "新版Kotlin从入门到精通", "grade": "中级", "people": "846", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "然冬", "title": "从开题到答辩 带你完成高质量毕设项目", "grade": "入门", "people": "21", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "廖师兄", "title": "玩转N种企业级解决方案，笑傲分布式开发", "grade": "中级", "people": "176", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目", "grade": "中级", "people": "121", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "123", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "217", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化--6大角度综合型优化方案", "grade": "中级", "people": "408", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7精讲+Java通用型工作流开发实战", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "初级", "people": "270", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "理论+实战 构建完整JVM知识体系", "grade": "中级", "people": "360", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "808", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "从零开始学调优-Java 全技术栈 性能调优", "grade": "中级", "people": "310", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "实战课程 Java企业级支付全家桶设计与实战", "grade": "初级", "people": "360", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "93", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "咚咚呛", "title": "协程原理从入门到精通 每个后端开发都需要掌握的高性能开发技术", "grade": "中级", "people": "21", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "InCowboy", "title": "Redis专项进阶课 解决Redis工作实际问题+掌握Redis6.x特性", "grade": "高级", "people": "90", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发 盯紧技术先机 抓紧高薪机遇", "grade": "中级", "people": "149", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12176", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "Jokcy", "title": "Vue3.0+TS打造企业级组件库 快速掌握Vue3企业实际应用", "grade": "高级", "people": "428", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "708", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目 深度剖析Vue3新特性", "grade": "中级", "people": "950", "score": "9.98", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "双越", "title": "一天时间迅速准备前端面试 快速构建初级前端知识体系", "grade": "初级", "people": "2093", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "140", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8993", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "quickzhao", "title": "想学C++不用翻教材 百度大牛带你结合实践重学C++ ", "grade": "中级", "people": "1698", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "7七月", "title": "微信小程序入门与实战（全新版）  超20000人学习的好课", "grade": "初级", "people": "21238", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "河畔一角", "title": "Vue全家桶实战 从零独立开发企业级电商系统", "grade": "中级", "people": "1519", "score": "10.00", "describe": "Vue全家桶构建企业级电商系统，真实服务端数据对接，拥有中大型电商项目开发经验"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "289", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4414", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App  一网打尽核心技术", "grade": "中级", "people": "3301", "score": "9.98", "describe": "解锁Flutter开发新姿势，，系统掌握Flutter开发核心技术。"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4243", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1123", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "一课掌握Kotlin 突破开发语言瓶颈", "grade": "中级", "people": "847", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "然冬", "title": "为毕业生打造的全栈课 一站解决毕设问题（选题/毕设/论文/答辩）", "grade": "入门", "people": "21", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "廖师兄", "title": "分布式开发6大核心专题 掌握企业级分布式项目方案", "grade": "中级", "people": "177", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目 全面强化职场核心竞争力", "grade": "中级", "people": "122", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "124", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "218", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化企业级解决方案 6大角度+大厂视野实现项目全面优化", "grade": "中级", "people": "408", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7工作流开发实战 打造通用型可视化UML工作流系统", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手App 带你解锁语音交互技能包", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "中级", "people": "270", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "构建JVM知识体系 解决Java工程师应会必会的工作/面试难点", "grade": "中级", "people": "362", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "811", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "Java性能调优 6步实现项目性能全面升级+面试高频性能问题讲解", "grade": "中级", "people": "310", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "Java支付全家桶 企业级各类支付手段一站式解决方案", "grade": "初级", "people": "361", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "Dell", "title": "从入门到实战 进阶式掌握Vue3完整知识体系", "grade": "中级", "people": "93", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "咚咚呛", "title": "协程原理从入门到精通 每个后端开发都需要掌握的高性能开发技术", "grade": "中级", "people": "21", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "InCowboy", "title": "Redis专项进阶课 解决Redis工作实际问题+掌握Redis6.x特性", "grade": "高级", "people": "90", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发 盯紧技术先机 抓紧高薪机遇", "grade": "中级", "people": "149", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12176", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "Jokcy", "title": "Vue3.0+TS打造企业级组件库 快速掌握Vue3企业实际应用", "grade": "高级", "people": "428", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "708", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目 深度剖析Vue3新特性", "grade": "中级", "people": "950", "score": "9.98", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "双越", "title": "一天时间迅速准备前端面试 快速构建初级前端知识体系", "grade": "初级", "people": "2093", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "140", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8993", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "quickzhao", "title": "想学C++不用翻教材 百度大牛带你结合实践重学C++ ", "grade": "中级", "people": "1698", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "7七月", "title": "微信小程序入门与实战（全新版）  超20000人学习的好课", "grade": "初级", "people": "21238", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "河畔一角", "title": "Vue全家桶实战 从零独立开发企业级电商系统", "grade": "中级", "people": "1519", "score": "10.00", "describe": "Vue全家桶构建企业级电商系统，真实服务端数据对接，拥有中大型电商项目开发经验"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "289", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4414", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App  一网打尽核心技术", "grade": "中级", "people": "3301", "score": "9.98", "describe": "解锁Flutter开发新姿势，，系统掌握Flutter开发核心技术。"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4243", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1123", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "一课掌握Kotlin 突破开发语言瓶颈", "grade": "中级", "people": "847", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "然冬", "title": "为毕业生打造的全栈课 一站解决毕设问题（选题/毕设/论文/答辩）", "grade": "入门", "people": "21", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "廖师兄", "title": "分布式开发6大核心专题 掌握企业级分布式项目方案", "grade": "中级", "people": "177", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目 全面强化职场核心竞争力", "grade": "中级", "people": "122", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "124", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "218", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化企业级解决方案 6大角度+大厂视野实现项目全面优化", "grade": "中级", "people": "408", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7工作流开发实战 打造通用型可视化UML工作流系统", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手App 带你解锁语音交互技能包", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "中级", "people": "270", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "构建JVM知识体系 解决Java工程师应会必会的工作/面试难点", "grade": "中级", "people": "362", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "811", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "Java性能调优 6步实现项目性能全面升级+面试高频性能问题讲解", "grade": "中级", "people": "310", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "Java支付全家桶 企业级各类支付手段一站式解决方案", "grade": "初级", "people": "361", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
+{"teacher": "谢成", "title": "JavaScript ES(6-11)全版本语法 每个前端都需要的基础课", "grade": "初级", "people": "483", "score": "10.00", "describe": "前端无门槛学习，从ES6到ES11，一套课程掌握JS最新语法"}
+{"teacher": "会写代码的好厨师", "title": "PyTorch入门到进阶 实战计算机视觉与自然语言处理项目", "grade": "中级", "people": "292", "score": "10.00", "describe": "理论基础+技术讲解+实战开发，快速掌握PyTorch框架"}
+{"teacher": "liuyubobobo", "title": "算法与数据结构体系课：覆盖0~5年工作面试所需", "grade": "中级", "people": "93", "score": "10.00", "describe": "明星讲师DELL亲授，全方位知识点+高匹配度项目，轻松入门，深度掌握"}
+{"teacher": "咚咚呛", "title": "协程原理从入门到精通 每个后端开发都需要掌握的高性能开发技术", "grade": "中级", "people": "21", "score": "10.00", "describe": "后端开发都需要掌握的高性能开发技术。从线程到进程再到协程，只需一课。"}
+{"teacher": "InCowboy", "title": "Redis专项进阶课 解决Redis工作实际问题+掌握Redis6.x特性", "grade": "高级", "people": "90", "score": "10.00", "describe": "以项目整合Redis各种场景，从此轻松应对各类Redis难题"}
+{"teacher": "bobby", "title": "Go+Python双语言混合开发 盯紧技术先机 抓紧高薪机遇", "grade": "中级", "people": "149", "score": "10.00", "describe": "为1年以上Web开发者打造，成为具备双语言后端能力的开发者，倍增你的职场竞争力"}
+{"teacher": "7七月", "title": "全面系统Python3.8入门+进阶  (程序员必备第二语言)", "grade": "初级", "people": "12176", "score": "9.98", "describe": "语法精讲/配套练习+思考题/原生爬虫实战"}
+{"teacher": "Jokcy", "title": "Vue3.0+TS打造企业级组件库 快速掌握Vue3企业实际应用", "grade": "高级", "people": "428", "score": "10.00", "describe": "深度匹配高级前端工程师岗位用人需求的精品课  打造属于你自己的开源项目"}
+{"teacher": "Sam", "title": "体系课-数据可视化入门到精通-打造前端差异化竞争力", "grade": "中级", "people": "708", "score": "10.00", "describe": "同级别前端，掌握数据可视化薪资更高"}
+{"teacher": "张轩", "title": "Vue3.0(正式版) + TS 仿知乎专栏企业级项目 深度剖析Vue3新特性", "grade": "中级", "people": "950", "score": "9.98", "describe": "Vue3.0 全家桶+TS ，带你完成前后端分离复杂项目，率先掌握vue3.0造轮子技能"}
+{"teacher": "双越", "title": "一天时间迅速准备前端面试 快速构建初级前端知识体系", "grade": "初级", "people": "2093", "score": "9.99", "describe": "针对时下面试高频考点，帮助新人js面试快速通关"}
+{"teacher": "接灰的电子产品", "title": "Spring Security+OAuth2 精讲     多场景打造企业级认证与授权", "grade": "中级", "people": "140", "score": "10.00", "describe": "一站式掌握主流安全框架与行业解决方案，从容应对各种安全难题。"}
+{"teacher": "Dell", "title": "Vue2.5-2.6-3.0 开发去哪儿网App 从零基础入门到实战项目开发", "grade": "中级", "people": "8993", "score": "10.00", "describe": "课程紧跟Vue版本迭代，最新补充Vue3.0新章节，带你第一时间掌握Vue3.0新特性"}
+{"teacher": "quickzhao", "title": "想学C++不用翻教材 百度大牛带你结合实践重学C++ ", "grade": "中级", "people": "1698", "score": "9.96", "describe": "一部大片，一段历史，构建C++知识框架的同时重塑你的编程思维"}
+{"teacher": "7七月", "title": "微信小程序入门与实战（全新版）  超20000人学习的好课", "grade": "初级", "people": "21238", "score": "9.99", "describe": "4年同步微信官方迭代，累计20000+人学习， 比微信官方更火爆！"}
+{"teacher": "河畔一角", "title": "Vue全家桶实战 从零独立开发企业级电商系统", "grade": "中级", "people": "1519", "score": "10.00", "describe": "Vue全家桶构建企业级电商系统，真实服务端数据对接，拥有中大型电商项目开发经验"}
+{"teacher": "风间影月", "title": "Spring Cloud分布式微服务实战，养成应对复杂业务的综合技术能力", "grade": "中级", "people": "289", "score": "10.00", "describe": "一课收获分布式系统开发，微服务核心技术和中间件企业生产落地"}
+{"teacher": "ccmouse", "title": "Google资深工程师深度讲解Go语言", "grade": "中级", "people": "4414", "score": "9.99", "describe": "语法+分布式爬虫实战   为转型工程师量身打造，让你彻底掌握go语言"}
+{"teacher": "CrazyCodeBoy", "title": "Flutter从入门到进阶 实战携程网App  一网打尽核心技术", "grade": "中级", "people": "3301", "score": "9.98", "describe": "解锁Flutter开发新姿势，，系统掌握Flutter开发核心技术。"}
+{"teacher": "Dell", "title": "React开发简书项目 从零基础入门到实战", "grade": "中级", "people": "4243", "score": "10.00", "describe": "主流新技术 React-redux，React-router4，贯穿基础语法及项目实战。"}
+{"teacher": "张轩", "title": "Typescript + React 高仿 Antd 从零到一打造自己的组件库", "grade": "高级", "people": "1123", "score": "10.00", "describe": "设计，开发，测试，发布再到 CI/CD，从0到1造轮子"}
+{"teacher": "bennyhuo", "title": "一课掌握Kotlin 突破开发语言瓶颈", "grade": "中级", "people": "847", "score": "9.99", "describe": "如果有一门语言可以取代Java，那么它一定是Kotlin。一课掌握Kotlin，突破开发语言瓶颈。"}
+{"teacher": "然冬", "title": "为毕业生打造的全栈课 一站解决毕设问题（选题/毕设/论文/答辩）", "grade": "入门", "people": "21", "score": "10.00", "describe": "为计算机专业大学生解决&ldquo;毕业难题&rdquo;"}
+{"teacher": "廖师兄", "title": "分布式开发6大核心专题 掌握企业级分布式项目方案", "grade": "中级", "people": "177", "score": "10.00", "describe": "分布式六大命门逐一剖析破解，廖师兄带你寻找最优解"}
+{"teacher": "檀梵", "title": "Laravel重构企业级电商项目 全面强化职场核心竞争力", "grade": "中级", "people": "122", "score": "10.00", "describe": "一门专注于提升大型复杂项目重构能力的课程"}
+{"teacher": "Moody", "title": "新RabbitMQ精讲，项目驱动落地，分布式事务拔高", "grade": "中级", "people": "124", "score": "10.00", "describe": "消息驱动架构+订单状态机 项目迭代提升学习体验。二次开发，手写分布式事务框架。"}
+{"teacher": "夏小宅", "title": "用 React.js+Egg.js 造轮子   全栈开发旅游电商应用", "grade": "高级", "people": "147", "score": "10.00", "describe": "造好轮子+前后端复杂业务处理，解锁前端高手必备技能。"}
+{"teacher": "勤一", "title": "Java实操避坑指南 SpringBoot/MySQL/Redis常见错误详解", "grade": "中级", "people": "235", "score": "10.00", "describe": "掌握业务开发中各种类型的坑，纠正常见误区，Java web开发领域通用"}
+{"teacher": "Michael_PK", "title": "Spark3大数据实时处理-Streaming+Structured Streaming 实战", "grade": "中级", "people": "104", "score": "10.00", "describe": "实战Spark3实时处理，掌握两套企业级处理方案"}
+{"teacher": "清风", "title": "基于SpringCloud+Kubernetes ，微服务的容器化持续交付实战", "grade": "中级", "people": "218", "score": "10.00", "describe": "Spring Cloud+Jenkins+Kubernetes实战，学习业界领先的持续交付方案"}
+{"teacher": "Gudy", "title": "SpringCloud+Vertx+Disruptor  金融业撮合交易系统实战", "grade": "初级", "people": "157", "score": "10.00", "describe": "开发撮合交易系统，独家掌握金融业务系统知识，培养金融IT工程师核心竞争力"}
+{"teacher": "Mr_Max", "title": "前端性能优化企业级解决方案 6大角度+大厂视野实现项目全面优化", "grade": "中级", "people": "408", "score": "10.00", "describe": "只要项目还在线，性能优化永远是时刻要关注的问题"}
+{"teacher": "汪汪对", "title": "Activiti7工作流开发实战 打造通用型可视化UML工作流系统", "grade": "初级", "people": "297", "score": "10.00", "describe": "从0打造黑马潜力项目作品，掌握最新版Activiti7核心+工程化思维。"}
+{"teacher": "刘某人", "title": "Kotlin+组件化 打造自己的AI语音助手App 带你解锁语音交互技能包", "grade": "中级", "people": "79", "score": "10.00", "describe": "基于百度AI打造一款集WakeUp，TTS，ASR为一体的服务类助手App"}
+{"teacher": "阿莱克斯刘", "title": ".Net Core 开发电商后端API   从0到精通吃透RESTful", "grade": "中级", "people": "270", "score": "9.97", "describe": "首门. Net Core实战+RESTful思想纵深课程，开发极致RESTful风格API。"}
+{"teacher": "CC老师", "title": "构建JVM知识体系 解决Java工程师应会必会的工作/面试难点", "grade": "中级", "people": "362", "score": "10.00", "describe": "无论是要准备面试还是内功提升，只要你做Java，就需要学习JVM"}
+{"teacher": "下雨le", "title": "仿阿里系优酷网-企业级Go改造PHP项目踩坑避坑指北", "grade": "中级", "people": "193", "score": "10.00", "describe": "仿大厂千万级视频项目；Go+PHP一箭双雕"}
+{"teacher": "lewis", "title": "JavaScript版数据结构与算法 轻松解决前端算法面试", "grade": "中级", "people": "811", "score": "9.98", "describe": "夯实算法基础，填补技术短板，助力面试考题最后一公里"}
+{"teacher": "smart哥", "title": "Java性能调优 6步实现项目性能全面升级+面试高频性能问题讲解", "grade": "中级", "people": "310", "score": "10.00", "describe": "攻克性能调优，你就是企业高薪抢夺的&lsquo;香饽饽&rsquo;，给自己的程序人生一次&ldquo;弯道超车&rdquo;的机会。"}
+{"teacher": "神思者", "title": "Java支付全家桶 企业级各类支付手段一站式解决方案", "grade": "初级", "people": "361", "score": "10.00", "describe": "微信/支付宝/银联/混合支付，App/PC/H5/小程序，一课搞定全类型各行业企业级通用支付方式，值！"}
